@@ -1,17 +1,15 @@
 ---
 templateKey: index-page
-title: Official Website SMK Daarussa'adah
-image: /img/tasakuran.jpg
-heading: SMK Daarussa'adah Tangerang
-subheading: Berkarakter, Berprestasi dan Berpesantren
+title: Official Website Lite Dessert
+image: /img/background.jpg
+heading: Lite Silky Dessert Kelapa Dua
+subheading: Lite Silky Dessert, Ceriakan Harimu
 about:
   heading: Siapa Kami
-  description: Kami adalah lembaga pendidikan vokasi SMK Daarussa'adah yang
-    berkomitmen mengambil tanggung jawab dalam mencetak SDM yang mumpuni dapat
-    bersaing di dunia industri dan bisnis.
+  description: Kami adalah Lite Silky Dessert, sebuah toko yang berdedikasi untuk menciptakan hidangan penutup lezat dan ringan yang bisa dinikmati siapa saja tanpa rasa bersalah. Kami percaya bahwa dessert terbaik adalah yang tidak hanya memanjakan lidah, tetapi juga memberikan ketenangan pikiran.
   image:
-    image: /img/penyerahan-piagam.jpg
-    alt: Para siswa SMK Daarussa'adah kegiatan kelas industri
+    image: /img/puding.jpg
+    alt: puding dessert
   button:
     url: /about
     label: Mengetahui lebih lanjut

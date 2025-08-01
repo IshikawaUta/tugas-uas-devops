@@ -11,7 +11,7 @@ const Footer = () => {
             <div className="px-4 sm:px-6 lg:px-8">
               <Link className="flex items-center gap-1" to="/">
                 <StaticImage
-                  src="../img/logo.png"
+                  src="../img/logo-dessert.png"
                   alt="Logo SMK Daarussaadah"
                   layout="fixed"
                   width={40}
@@ -20,14 +20,13 @@ const Footer = () => {
                   placeholder="blurred"
                 />
                 <div className="text-xl font-bold tracking-wide">
-                  <span className="text-gray-800 font-semibold">SMK</span>
-                  <span className="text-green-700">Daarussaadah</span>
+                  <span className="text-gray-800 font-semibold">Lite</span>
+                  <span className="text-green-700">Silky Dessert</span>
                 </div>
               </Link>
 
               <p className="max-w-md mt-2 text-gray-600 dark:text-gray-400">
-                Konsep belajar SMK Daarussaadah Praktis dan Berpesantren
-                Menjadikan Siswa/i cepat memahami dalam setiap pembelajaran Ilmu, Teknologi dan Islam.
+                Selamat datang di Lite Silky Dessert! Kami adalah surga bagi para pecinta makanan manis yang mencari hidangan penutup lezat tanpa rasa bersalah.
               </p>
             </div>
           </div>
@@ -42,7 +41,7 @@ const Footer = () => {
                   to="/"
                   className="block mt-2 text-sm text-gray-600 dark:text-gray-400 hover:underline"
                 >
-                  SMK Daarussaadah
+                  Lite Silky Dessert
                 </Link>
                 <Link
                   to="/"
@@ -87,20 +86,20 @@ const Footer = () => {
                   Kerjasama
                 </h3>
                 <a
-                  href="https://www.aretanet.com/"
+                  href="https://www.instagram.com/lite_dessert/"
                   className="block mt-2 text-sm text-gray-600 dark:text-gray-400 hover:underline"
                   rel="noreferrer"
                   target="_blank"
                 >
-                  PT. Aretanet Indonesia
+                  Lite Dessert
                 </a>
                 <a
-                  href="https://www.aretacollege.com/"
+                  href="https://www.instagram.com/lite_dessert/"
                   className="block mt-2 text-sm text-gray-600 dark:text-gray-400 hover:underline"
                   rel="noreferrer"
                   target="_blank"
                 >
-                  Areta Informatics College
+                  Silky Dessert
                 </a>
                 <a
                   href="https://facebook.com/smk-daarussaadah"
@@ -120,7 +119,7 @@ const Footer = () => {
                   +62 85300000
                 </span>
                 <span className="block mt-2 text-sm text-gray-600 dark:text-gray-400 hover:underline">
-                  info@smk-daarussaadah.sch.id
+                  info@litedessertdrink.com
                 </span>
               </div>
             </div>
@@ -131,7 +130,7 @@ const Footer = () => {
 
         <div>
           <p className="text-center text-gray-800 dark:text-white">
-            © SMK Daarussaadah 2025 - All rights reserved
+            © Lite Silky Dessert 2025 - All rights reserved
           </p>
         </div>
       </div>

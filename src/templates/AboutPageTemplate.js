@@ -11,7 +11,7 @@ function AboutPageTemplate({ heading, subheading, html, team }) {
       <Content html={html} />
       <Container>
         <div className="max-w-3xl mx-auto">
-          <SectionHeading>Kepala Sekolah, Guru dan Staf SMK Daarussaadah</SectionHeading>
+          <SectionHeading>Produk Kami</SectionHeading>
           <div className="mt-6 grid grid-cols-1 sm:grid-cols-2 gap-6">
             {team.map((member, idx) => {
               return (

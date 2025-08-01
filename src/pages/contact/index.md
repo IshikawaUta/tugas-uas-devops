@@ -7,21 +7,21 @@ contactform:
   heading: Kami siap membantu Anda
   description: " Kirimkan pesan melalui formulir di bawah ini, atau kirimkan email
     kepada kami."
-  image: /img/perpustakaan.jpg
+  image: /img/background.jpg
 office:
-  tagline: Plang SMK Daarussaadah
-  location: Pasar Kemis Kota Tangerang
+  tagline: Lite Silky Dessert
+  location: Kelapa Dua
   address: |-
-    SMK Daarussaadah
+    Lite Silky Dessert
 
     Kota
 
     Tangerang
   phone: |-
-    Email: info@smk-daarussaadah.sch.id
+    Email: info@litedessertdrink.com
 
-    Phone: 0853000000
+    Phone: +628119967877
 
     Senin s.d Sabtu 08.00 -14.00 Wib.
-  image: /img/smk-daarussaadah.jpg
+  image: /img/puding.jpg
 ---

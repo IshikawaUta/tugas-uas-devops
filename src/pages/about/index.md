@@ -1,37 +1,18 @@
 ---
 templateKey: about-page
 title: Tentang Kami
-heading: Tentang SMK Daarussaadah Kota Tangerang
-subheading: Visi Misi, Prestasi, Kegiatan dan Jurusan
+heading: Tentang Lite Silky Dessert
+subheading: Sejarah Berdirinya Kami
 team:
-  - name: Prestasi Siswa
-    image: /img/img_2393.jpg
-    title: SMK Daarussaadah Kota Tangerang
-  - name: Kegiatan Siswa
-    title: SMK Daarussaadah Kota Tangerang
-    image: /img/img_4974.jpg
+  - name: Dessert
+    image: /img/background.jpg
+    title: Lite Silky Dessert
+  - name: Dessert
+    title: Lite Silky Dessert
+    image: /img/puding.jpg
 ---
-### **SMK Daarussaadah Berpesantren**
+### **Lite Silky Dessert**
 
-i﻿si tentang SMK Daarussaadah, mulai dari berdirinya, kegiatannya motivasinya dll.
+![Dessert](/img/background.jpg "Dessert")
 
-## **Visi**
-
-Isi dengan visi dari SMK Daarussaadah
-
-## **Misi**
-
-1. i﻿si dengan misi-misi
-
-![Tasakuran SMK Daarussaadah](/img/img_2242.jpg "Kegiatan Tasakuran SMK Daarussaadah")
-
-### Jurusun Teknik Komputer Jaringan (TKJ)
-
-Jurusan Teknik Komputer dan Jaringan (TKJ) adalah salah satu program keahlian yang ada di sekolah menengah kejuruan (SMK) yang mempelajari tentang teknologi informasi dan komunikasi terkait dengan penggunaan dan pemeliharaan perangkat keras dan perangkat lunak, serta jaringan komputer.
-
-Siswa yang mengambil program TKJ akan mempelajari materi seperti pemrograman komputer, pengoperasian sistem komputer, desain dan pengembangan website, administrasi jaringan komputer, keamanan jaringan, dan pengujian perangkat lunak. Selain itu, siswa juga akan mendapatkan praktikum untuk mengasah keterampilan dan pengalaman dalam bidang teknologi informasi dan komunikasi.
-
-Setelah lulus dari program TKJ, siswa akan memiliki keterampilan yang dibutuhkan untuk bekerja di berbagai industri yang berhubungan dengan teknologi informasi dan komunikasi, seperti:
-
-1. Perusahaan teknologi, penyedia layanan internet, dan perusahaan telekomunikasi. 
-2. Selain itu, siswa juga dapat melanjutkan pendidikan ke jenjang yang lebih tinggi, seperti program sarjana di bidang teknik informatika atau teknologi informasi.
+Lite Dessert berdiri tahun 2019 bersamaan dengan Covid 19..Sebelumnya ada beberapa usaha yg kami jalani harus tutup karna imbas dr covid 19.. Berawal dari hobi membuat puding untuk anak2, kami memberanikan diri untuk menawarkan produk kami kepada teman2 dari mulut ke mulut yang alhamdulillah mendapatkan sambutan hangat dari pelanggan..Puding yang kami jual adalah puding kami racik sendiri yang menggunakan bahan berkualitas, tanpa pengawet dan pemanis buatan.. Yang awalnya hanya menyediakan produk silky puding kini berkembang menjadi beberapa varian menu seperti puding buah, puding black forest, puding sedot, mango sago, buko pandan macaroni schootel dan pizza..Pada akhirnya kami memberanikan diri membuka toko kecil2an di rumah kami di tahun 2023 hingga sekarang.

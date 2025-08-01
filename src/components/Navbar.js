@@ -1,7 +1,7 @@
 import React, { useState } from "react"
 import { Link } from "gatsby"
 import { StaticImage } from "gatsby-plugin-image"
-import aretanet from "../img/logo-aretanet.png"
+import aretanet from "../img/logo-dessert.png"
 
 const NAVLINK_CLASSES =
   "my-1 py-3 px-3 text-center font-medium text-gray-600 border-b-4 border-white hover:border-yellow-300 md:mx-2 md:my-0"
@@ -54,8 +54,8 @@ const Navbar = ({ className }) => {
         <div className="flex items-center justify-between py-2">
           <Link className="flex items-center gap-1" to="/">
             <StaticImage
-              src="../img/logo.png"
-              alt="SMK Daarussaadah Logo"
+              src="../img/logo-dessert.png"
+              alt="Lite Dessert Logo"
               className="w-8 h-8 sm:w-10 sm:h-10"
               layout="constrained"
               width={45}
@@ -65,8 +65,8 @@ const Navbar = ({ className }) => {
               placeholder="blurred"
             />
             <div className="text-xl font-bold tracking-wide lg:text-2xl">
-              <span className="text-gray-800 font-semibold">SMK</span>
-              <span className="text-green-700">Daarussaadah</span>
+              <span className="text-gray-800 font-semibold">Lite</span>
+              <span className="text-green-700">Silky dessert</span>
             </div>
           </Link>
 
@@ -128,7 +128,7 @@ const Navbar = ({ className }) => {
               Kontak
             </ExactNavLink>
             <a
-              href="https://www.aretanet.com"
+              href="https://www.instagram.com/lite_dessert/"
               className="py-4 md:py-2 md:pl-4"
               rel="noreferrer"
               target="_blank"
